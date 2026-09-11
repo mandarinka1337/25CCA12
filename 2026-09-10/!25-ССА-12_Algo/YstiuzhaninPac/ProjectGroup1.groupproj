@@ -1,0 +1,72 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{F43F8FB0-873B-4CEF-8120-D0E55BC6D937}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Ur2\Ur2.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Ur3\Ur3.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Ur4\Ur4.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Ur5\Ur5.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Ur2">
+        <MSBuild Projects="Ur2\Ur2.dproj"/>
+    </Target>
+    <Target Name="Ur2:Clean">
+        <MSBuild Projects="Ur2\Ur2.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Ur2:Make">
+        <MSBuild Projects="Ur2\Ur2.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Ur3">
+        <MSBuild Projects="Ur3\Ur3.dproj"/>
+    </Target>
+    <Target Name="Ur3:Clean">
+        <MSBuild Projects="Ur3\Ur3.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Ur3:Make">
+        <MSBuild Projects="Ur3\Ur3.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Ur4">
+        <MSBuild Projects="Ur4\Ur4.dproj"/>
+    </Target>
+    <Target Name="Ur4:Clean">
+        <MSBuild Projects="Ur4\Ur4.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Ur4:Make">
+        <MSBuild Projects="Ur4\Ur4.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Ur5">
+        <MSBuild Projects="Ur5\Ur5.dproj"/>
+    </Target>
+    <Target Name="Ur5:Clean">
+        <MSBuild Projects="Ur5\Ur5.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Ur5:Make">
+        <MSBuild Projects="Ur5\Ur5.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Ur2;Ur3;Ur4;Ur5"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Ur2:Clean;Ur3:Clean;Ur4:Clean;Ur5:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Ur2:Make;Ur3:Make;Ur4:Make;Ur5:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
