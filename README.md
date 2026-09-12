@@ -25,9 +25,9 @@
 
 | Язык | Платформа | Проект |
 |------|-----------|--------|
-| **C#** | .NET Framework 4.8 / Visual Studio | `YstiuzhaninCharp` |
-| **Delphi (Pascal)** | Delphi 10.3 Rio / RAD Studio | `YstiuzhaninPac` |
-| **Python** | Python 3.x / Visual Studio | `YstiuzhaninPy` |
+| **C#** | .NET Framework 4.8 / Visual Studio | `UserCharp` |
+| **Delphi (Pascal)** | Delphi 10.3 Rio / RAD Studio | `UserPac` |
+| **Python** | Python 3.x / Visual Studio | `UserPy` |
 
 Каждый новый сданный вариант хранится в отдельной папке-релизе с датой загрузки.
 
@@ -37,9 +37,9 @@
 CCA12-/
 ├── 📦 <дата релиза>/
 │   └── !25-ССА-12_Algo/
-│       ├── 🟦 YstiuzhaninCharp/   ← лабораторные на C#
-│       ├── 🔴 YstiuzhaninPac/     ← лабораторные на Delphi
-│       └── 🟨 YstiuzhaninPy/      ← лабораторные на Python
+│       ├── 🟦 UserCharp/           ← лабораторные на C#
+│       ├── 🔴 UserPac/             ← лабораторные на Delphi
+│       └── 🟨 UserPy/              ← лабораторные на Python
 │
 └── 🛠️ installers/                 ← установщики сред разработки
     ├── vs_setup.exe               ← Visual Studio Community 2022
