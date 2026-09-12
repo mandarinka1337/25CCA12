@@ -1,0 +1,7 @@
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur2\obj\Debug\Ur2.csproj.AssemblyReference.cache
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur2\obj\Debug\Ur2.csproj.CoreCompileInputs.cache
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur2\bin\Debug\Ur2.exe.config
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur2\bin\Debug\Ur2.exe
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur2\bin\Debug\Ur2.pdb
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur2\obj\Debug\Ur2.exe
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur2\obj\Debug\Ur2.pdb

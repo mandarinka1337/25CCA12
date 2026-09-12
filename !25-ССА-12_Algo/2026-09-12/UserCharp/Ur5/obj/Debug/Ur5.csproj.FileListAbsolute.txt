@@ -1,0 +1,7 @@
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur5\bin\Debug\Ur5.exe.config
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur5\bin\Debug\Ur5.exe
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur5\bin\Debug\Ur5.pdb
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur5\obj\Debug\Ur5.csproj.AssemblyReference.cache
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur5\obj\Debug\Ur5.csproj.CoreCompileInputs.cache
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur5\obj\Debug\Ur5.exe
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur5\obj\Debug\Ur5.pdb

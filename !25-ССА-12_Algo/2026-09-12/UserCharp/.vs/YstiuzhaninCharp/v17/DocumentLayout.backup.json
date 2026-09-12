@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!25-\u0421\u0421\u0410-12_Algo\\YstiuzhaninCharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8D0969-6861-4033-AE4B-3C0F12775CF1}|Ur6\\Ur6.csproj|d:\\!25-\u0441\u0441\u0430-12_algo\\ystiuzhanincharp\\ur6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8D0969-6861-4033-AE4B-3C0F12775CF1}|Ur6\\Ur6.csproj|solutionrelative:ur6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A418F0-EBC5-481F-9CB1-0B26CAA4B526}|Ur5\\Ur5.csproj|d:\\!25-\u0441\u0441\u0430-12_algo\\ystiuzhanincharp\\ur5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A418F0-EBC5-481F-9CB1-0B26CAA4B526}|Ur5\\Ur5.csproj|solutionrelative:ur5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8D0969-6861-4033-AE4B-3C0F12775CF1}|Ur6\\Ur6.csproj|d:\\!25-\u0441\u0441\u0430-12_algo\\ystiuzhanincharp\\ur6\\\u043A\u043E\u043D\u0441\u043F\u0435\u043A\u0442.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0F8D0969-6861-4033-AE4B-3C0F12775CF1}|Ur6\\Ur6.csproj|solutionrelative:ur6\\\u043A\u043E\u043D\u0441\u043F\u0435\u043A\u0442.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:42:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u041A\u043E\u043D\u0441\u043F\u0435\u043A\u0442.txt",
+              "DocumentMoniker": "D:\\!25-\u0421\u0421\u0410-12_Algo\\YstiuzhaninCharp\\Ur6\\\u041A\u043E\u043D\u0441\u043F\u0435\u043A\u0442.txt",
+              "RelativeDocumentMoniker": "Ur6\\\u041A\u043E\u043D\u0441\u043F\u0435\u043A\u0442.txt",
+              "ToolTip": "D:\\!25-\u0421\u0421\u0410-12_Algo\\YstiuzhaninCharp\\Ur6\\\u041A\u043E\u043D\u0441\u043F\u0435\u043A\u0442.txt",
+              "RelativeToolTip": "Ur6\\\u041A\u043E\u043D\u0441\u043F\u0435\u043A\u0442.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-11T08:18:36.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!25-\u0421\u0421\u0410-12_Algo\\YstiuzhaninCharp\\Ur6\\Program.cs",
+              "RelativeDocumentMoniker": "Ur6\\Program.cs",
+              "ToolTip": "D:\\!25-\u0421\u0421\u0410-12_Algo\\YstiuzhaninCharp\\Ur6\\Program.cs",
+              "RelativeToolTip": "Ur6\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T08:15:31.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!25-\u0421\u0421\u0410-12_Algo\\YstiuzhaninCharp\\Ur5\\Program.cs",
+              "RelativeDocumentMoniker": "Ur5\\Program.cs",
+              "ToolTip": "D:\\!25-\u0421\u0421\u0410-12_Algo\\YstiuzhaninCharp\\Ur5\\Program.cs",
+              "RelativeToolTip": "Ur5\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:09:36.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 41,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
