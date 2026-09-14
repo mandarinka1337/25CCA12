@@ -6,85 +6,55 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/mandarinka1337/25CCA12?style=for-the-badge&logo=github&color=blueviolet)
 ![GitHub release date](https://img.shields.io/github/release-date/mandarinka1337/25CCA12?style=for-the-badge&color=orange)
-![GitHub repo size](https://img.shields.io/github/repo-size/mandarinka1337/25CCA12?style=for-the-badge&color=green)
-![GitHub license](https://img.shields.io/github/license/mandarinka1337/25CCA12?style=for-the-badge&color=red)
-
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi%20%2F%20Pascal-%23EE1F35.svg?style=for-the-badge&logo=delphi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.x-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-4.8-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Git LFS](https://img.shields.io/badge/Git%20LFS-%234277BE.svg?style=for-the-badge&logo=gitlfs&logoColor=white)
+![GitHub release](https://img.shields.io/github/release/mandarinka1337/25CCA12?style=for-the-badge&color=brightgreen)
 
 ---
 
+## ⬇️ Скачать
+
+### 📦 Последний релиз
+
+> Релиз за **12.09.2026** — самый свежий комплект (C#, Delphi, Python)
+
+<p align="center">
+  <a href="https://github.com/mandarinka1337/25CCA12/releases/download/v2026-09-12/2026-09-12.zip"><img src="https://img.shields.io/badge/Скачать%20последний%20релиз%20ZIP-1.3%20MB-brightgreen?style=for-the-badge&logo=download" alt="Скачать ZIP"></a>
+  <a href="https://github.com/mandarinka1337/25CCA12/releases"><img src="https://img.shields.io/badge/Все%20релизы-blue?style=for-the-badge&logo=github" alt="Все релизы"></a>
+</p>
+
+### 📋 Все релизы
+
+| Релиз | Дата | ZIP |
+|-------|------|-----|
+| ⭐ **2026-09-12** | последняя пара | [⬇️ Скачать ZIP](https://github.com/mandarinka1337/25CCA12/releases/download/v2026-09-12/2026-09-12.zip) |
+| **2026-09-10** | первая пара | [⬇️ Скачать ZIP](https://github.com/mandarinka1337/25CCA12/releases/download/v2026-09-10/2026-09-10.zip) |
+
+Каждый ZIP — это папка со всеми файлами `UserCharp`, `UserPac`, `UserPy` за нужную дату. Скачивай, распаковывай — и всё на месте.
+
 </div>
 
-## 📖 О репозитории
+---
 
-Все работы выполнены на **трёх языках программирования**:
-
-| Язык | Платформа | Проект |
-|------|-----------|--------|
-| **C#** | .NET Framework 4.8 / Visual Studio | `UserCharp` |
-| **Delphi (Pascal)** | Delphi 10.3 Rio / RAD Studio | `UserPac` |
-| **Python** | Python 3.x / Visual Studio | `UserPy` |
-
-Каждый новый сданный вариант хранится в отдельной папке-релизе с датой загрузки.
-
-## 🗂️ Структура
+## 🗂️ Структура репозитория
 
 ```
 25CCA12/
 ├── 📂 !25-ССА-12_Algo/
-│   └── 📦 <дата релиза>/
+│   └── 📦 <дата пары>/
 │       ├── 🟦 UserCharp/           ← лабораторные на C#
 │       ├── 🔴 UserPac/             ← лабораторные на Delphi
 │       └── 🟨 UserPy/              ← лабораторные на Python
 │
 └── 🛠️ installers/                 ← установщики сред разработки
-    ├── vs_setup.exe               ← Visual Studio Community 2022
-    └── Embarcadero.Delphi...exe   ← Delphi 10.3 Rio Lite v15.0
 ```
-
-## 📦 Релизы
-
-| Релиз | Папка | ZIP для скачивания |
-|-------|-------|--------------------|
-| **[2026-09-12](https://github.com/mandarinka1337/25CCA12/releases/tag/v2026-09-12)** | [`2026-09-12/`](./!25-ССА-12_Algo/2026-09-12) | [⬇️ 2026-09-12.zip](https://github.com/mandarinka1337/25CCA12/releases/download/v2026-09-12/2026-09-12.zip) |
-| **[2026-09-10](https://github.com/mandarinka1337/25CCA12/releases/tag/v2026-09-10)** | [`2026-09-10/`](./!25-ССА-12_Algo/2026-09-10) | [⬇️ 2026-09-10.zip](https://github.com/mandarinka1337/25CCA12/releases/download/v2026-09-10/2026-09-10.zip) |
-
-Все релизы можно посмотреть на странице **[Releases](https://github.com/mandarinka1337/25CCA12/releases)**.
-
-> Новые релизы добавляются в папки вида `ГГГГ-ММ-ДД`, для каждой создаётся GitHub Release с ZIP-архивом.
 
 ## 🛠️ Установщики
 
-Прямое скачивание без клонирования репозитория:
+| Программа | Размер | Скачать |
+|-----------|--------|---------|
+| Visual Studio Community 2022 | ~2 МБ | [vs_setup.exe](https://media.githubusercontent.com/media/mandarinka1337/25CCA12/main/installers/vs_setup.exe) |
+| Delphi 10.3 Rio Lite v15.0 | ~424 МБ | [Embarcadero.Delphi...exe](https://media.githubusercontent.com/media/mandarinka1337/25CCA12/main/installers/Embarcadero.Delphi.10.3.0.v26.0.32429.4364.Lite.v15.0.exe) |
 
-| Программа | Размер | Ссылка |
-|-----------|--------|--------|
-| Visual Studio Community 2022 | ~2 МБ | [`vs_setup.exe`](./installers/vs_setup.exe) |
-| Delphi 10.3 Rio Lite v15.0 | ~424 МБ | [`Embarcadero.Delphi.10.3.0.v26.0.32429.4364.Lite.v15.0.exe`](./installers/Embarcadero.Delphi.10.3.0.v26.0.32429.4364.Lite.v15.0.exe) |
-
-### Скачать вручную
-
-```bash
-# Visual Studio
-curl -L -o vs_setup.exe "https://media.githubusercontent.com/media/mandarinka1337/25CCA12/main/installers/vs_setup.exe"
-
-# Delphi
-curl -L -o delphi-lite.exe "https://media.githubusercontent.com/media/mandarinka1337/25CCA12/main/installers/Embarcadero.Delphi.10.3.0.v26.0.32429.4364.Lite.v15.0.exe"
-```
-
-### Клонирование
-
-> Установщики хранятся в **Git LFS** — после клонирования подтяни большие файлы:
-
-```bash
-git clone https://github.com/mandarinka1337/25CCA12.git
-cd 25CCA12
-git lfs pull        # скачает установщики (~426 МБ)
-```
+> Нужны только исходники папок? Бери релизы выше — установщики к лабораторным не относятся.
 
 ---
 
