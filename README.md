@@ -4,10 +4,10 @@
 
 **Готовые работы по дисциплине «Алгоритмизация и программирование» — группа ССА-12**
 
-![GitHub last commit](https://img.shields.io/github/last-commit/mandarinka1337/CCA12-?style=for-the-badge&logo=github&color=blueviolet)
-![GitHub release date](https://img.shields.io/github/release-date/mandarinka1337/CCA12-?style=for-the-badge&color=orange)
-![GitHub repo size](https://img.shields.io/github/repo-size/mandarinka1337/CCA12-?style=for-the-badge&color=green)
-![GitHub license](https://img.shields.io/github/license/mandarinka1337/CCA12-?style=for-the-badge&color=red)
+![GitHub last commit](https://img.shields.io/github/last-commit/mandarinka1337/25CCA12?style=for-the-badge&logo=github&color=blueviolet)
+![GitHub release date](https://img.shields.io/github/release-date/mandarinka1337/25CCA12?style=for-the-badge&color=orange)
+![GitHub repo size](https://img.shields.io/github/repo-size/mandarinka1337/25CCA12?style=for-the-badge&color=green)
+![GitHub license](https://img.shields.io/github/license/mandarinka1337/25CCA12?style=for-the-badge&color=red)
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi%20%2F%20Pascal-%23EE1F35.svg?style=for-the-badge&logo=delphi&logoColor=white)
@@ -34,7 +34,7 @@
 ## 🗂️ Структура
 
 ```
-CCA12-/
+25CCA12/
 ├── 📂 !25-ССА-12_Algo/
 │   └── 📦 <дата релиза>/
 │       ├── 🟦 UserCharp/           ← лабораторные на C#
@@ -67,10 +67,10 @@ CCA12-/
 
 ```bash
 # Visual Studio
-curl -L -o vs_setup.exe "https://media.githubusercontent.com/media/mandarinka1337/CCA12-/main/installers/vs_setup.exe"
+curl -L -o vs_setup.exe "https://media.githubusercontent.com/media/mandarinka1337/25CCA12/main/installers/vs_setup.exe"
 
 # Delphi
-curl -L -o delphi-lite.exe "https://media.githubusercontent.com/media/mandarinka1337/CCA12-/main/installers/Embarcadero.Delphi.10.3.0.v26.0.32429.4364.Lite.v15.0.exe"
+curl -L -o delphi-lite.exe "https://media.githubusercontent.com/media/mandarinka1337/25CCA12/main/installers/Embarcadero.Delphi.10.3.0.v26.0.32429.4364.Lite.v15.0.exe"
 ```
 
 ### Клонирование
@@ -78,8 +78,8 @@ curl -L -o delphi-lite.exe "https://media.githubusercontent.com/media/mandarinka
 > Установщики хранятся в **Git LFS** — после клонирования подтяни большие файлы:
 
 ```bash
-git clone https://github.com/mandarinka1337/CCA12-.git
-cd CCA12-
+git clone https://github.com/mandarinka1337/25CCA12.git
+cd 25CCA12
 git lfs pull        # скачает установщики (~426 МБ)
 ```
 
