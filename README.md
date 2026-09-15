@@ -14,10 +14,10 @@
 
 ### 📦 Последний релиз
 
-> Релиз за **12.09.2026** — самый свежий комплект (C#, Delphi, Python)
+> Релиз за **15.09.2026** — самый свежий комплект (C#, Delphi, Python)
 
 <p align="center">
-  <a href="https://github.com/mandarinka1337/25CCA12/releases/download/v2026-09-12/2026-09-12.zip"><img src="https://img.shields.io/badge/Скачать%20последний%20релиз%20ZIP-1.3%20MB-brightgreen?style=for-the-badge&logo=download" alt="Скачать ZIP"></a>
+  <a href="https://github.com/mandarinka1337/25CCA12/releases/download/v2026-09-15/2026-09-15.zip"><img src="https://img.shields.io/badge/Скачать%20последний%20релиз%20ZIP-2.2%20MB-brightgreen?style=for-the-badge&logo=download" alt="Скачать ZIP"></a>
   <a href="https://github.com/mandarinka1337/25CCA12/releases"><img src="https://img.shields.io/badge/Все%20релизы-blue?style=for-the-badge&logo=github" alt="Все релизы"></a>
 </p>
 
@@ -25,7 +25,8 @@
 
 | Релиз | Дата | ZIP |
 |-------|------|-----|
-| ⭐ **2026-09-12** | 12.09.2026 | [⬇️ Скачать ZIP](https://github.com/mandarinka1337/25CCA12/releases/download/v2026-09-12/2026-09-12.zip) |
+| ⭐ **2026-09-15** | 15.09.2026 | [⬇️ Скачать ZIP](https://github.com/mandarinka1337/25CCA12/releases/download/v2026-09-15/2026-09-15.zip) |
+| **2026-09-12** | 12.09.2026 | [⬇️ Скачать ZIP](https://github.com/mandarinka1337/25CCA12/releases/download/v2026-09-12/2026-09-12.zip) |
 | **2026-09-10** | 10.09.2026 | [⬇️ Скачать ZIP](https://github.com/mandarinka1337/25CCA12/releases/download/v2026-09-10/2026-09-10.zip) |
 
 Каждый ZIP — это папка со всеми файлами `UserCharp`, `UserPac`, `UserPy` за нужную дату. Скачивай, распаковывай — и всё на месте.
