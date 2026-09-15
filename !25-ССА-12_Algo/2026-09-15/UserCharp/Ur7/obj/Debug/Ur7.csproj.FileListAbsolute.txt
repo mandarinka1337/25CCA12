@@ -1,0 +1,7 @@
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur7\bin\Debug\Ur7.exe.config
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur7\bin\Debug\Ur7.exe
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur7\bin\Debug\Ur7.pdb
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur7\obj\Debug\Ur7.csproj.AssemblyReference.cache
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur7\obj\Debug\Ur7.csproj.CoreCompileInputs.cache
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur7\obj\Debug\Ur7.exe
+D:\!25-ССА-12_Algo\YstiuzhaninCharp\Ur7\obj\Debug\Ur7.pdb

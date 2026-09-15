@@ -1,0 +1,43 @@
+program Ur8;
+// Урок 8. Условный оператор.
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils;
+
+  var
+  a, b: byte;
+  res: boolean;
+
+begin
+  // составление и проверка условий (в логическом выражении)
+  // сравнить переменные a и b. Результат поместить в логическую переменную res
+  // Инициализация переменных
+  a:=5;
+  b:=12;
+  // рассмотрим список список операторов отношения:
+  //сравнение в Pascal =
+   res:= a=b;
+  WriteLn('сравнение в Pascal = res:= a=b', res);
+  //больше >
+  res:= a>b;
+  WriteLn('больше > res:= a>b', res);
+  //меньше <
+  res:= a<b;
+  WriteLn('меньше < res:= a<b', res);
+  //больше или равно в Pascal >=
+  res:= a>=b;
+  WriteLn('больше или равно в Pascal >= res:= a>=b', res);
+  //меньше либо равно в Pascal <=
+  res:= a<=b;
+  WriteLn('меньше либо равно в Pascal <= res:= a<=b', res);
+  //не равно в Pascal <>
+  res:= a<>b;
+  WriteLn('не равно в Pascal <> res:= a<>b;', res);
+
+  WriteLn('Конец программы урок 8');
+  ReadLn; //точка остановки
+
+end.

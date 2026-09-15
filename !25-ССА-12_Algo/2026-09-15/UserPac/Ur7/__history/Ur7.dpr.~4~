@@ -1,0 +1,12 @@
+﻿program Ur7;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+// Задача 10. Составить программу решения линейного уравнения ax+b=0 (a ≠ 0).
+uses
+  System.SysUtils;
+
+begin
+
+end.
